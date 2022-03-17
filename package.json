@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "$env:CALENDAR_ID=\"ngr5bqmu2h7a163l2464v5dbso@group.calendar.google.com\"; node asyncapi.js"
+    "start": "node asyncapi.js"
   },
   "keywords": [],
   "author": "",
