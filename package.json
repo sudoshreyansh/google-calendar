@@ -1,0 +1,16 @@
+{
+  "name": "google-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "$env:CALENDAR_ID=\"ngr5bqmu2h7a163l2464v5dbso@group.calendar.google.com\"; node asyncapi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^92.0.0"
+  }
+}
