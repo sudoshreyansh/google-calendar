@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "setup": "node auth.js",
     "start": "node youtube.js"
   },
   "keywords": [],
