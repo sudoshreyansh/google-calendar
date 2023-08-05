@@ -1,2 +1,4 @@
 node_modules/
 service-account.json
+client_secret.json
+token.json
